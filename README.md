@@ -1,6 +1,6 @@
 # Cartoonifier
 
-A simple web app that converts any image into a cartoon. Output can be both colored or black and white depending on user's choice. 
+A simple web app that converts any image into a cartoon. Output can be coloured or black and white.
 
 /// INSTRUCTIONS TO RUN ///
 
